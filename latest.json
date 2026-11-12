@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "project": "mylib-w-deepseek-chat-tool",
+  "source": "github",
+  "version": "1.0.0",
+  "package_name": "mylib-w-deepseek-chat-tool-v1.0.0.exe",
+  "package_parts": [
+    {
+      "name": "mylib-w-deepseek-chat-tool-v1.0.0.exe.part001",
+      "url": "https://github.com/zsh-0/mylib-w_deepseek_chat_tool/releases/download/mylib-w-deepseek-chat-tool-v1.0.0/mylib-w-deepseek-chat-tool-v1.0.0.exe.part001",
+      "sha256": "b5c365fa97775f600365408563be9ae29dc71a73db5c56796b8741f8f88d2e64",
+      "size": 90000000
+    },
+    {
+      "name": "mylib-w-deepseek-chat-tool-v1.0.0.exe.part002",
+      "url": "https://github.com/zsh-0/mylib-w_deepseek_chat_tool/releases/download/mylib-w-deepseek-chat-tool-v1.0.0/mylib-w-deepseek-chat-tool-v1.0.0.exe.part002",
+      "sha256": "6a2d473c8a9190ffc0c08da6f0a9ece6024c58743487db962d066a81a53bc829",
+      "size": 90000000
+    },
+    {
+      "name": "mylib-w-deepseek-chat-tool-v1.0.0.exe.part003",
+      "url": "https://github.com/zsh-0/mylib-w_deepseek_chat_tool/releases/download/mylib-w-deepseek-chat-tool-v1.0.0/mylib-w-deepseek-chat-tool-v1.0.0.exe.part003",
+      "sha256": "1ab1bd2e32791cd333aa5941d3d6bc9c986a3165d6ed78cf08490b6bd10514c4",
+      "size": 70200380
+    }
+  ],
+  "sha256": "fbe9285b880fdf601bb1610200d2e089ffb1335387092e3fdbc5689a3f908ac2",
+  "size": 250200380,
+  "notes": "V1.0.0\n1、首次发布，支持默认Chat和API Chat",
+  "mandatory": false,
+  "published_at": "2026-11-12T08:00:22+00:00"
+}
